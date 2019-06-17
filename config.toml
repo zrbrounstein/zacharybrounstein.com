@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "https://www.zacharybrounstein.com"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
