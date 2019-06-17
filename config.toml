@@ -40,12 +40,12 @@ paginate        = 6
   post = "/:slug/"
 
 [[menu.main]]
-  name = "HomE"
+  name = "Homee"
   url = "/"
   weight = 200
 
 [[menu.main]]
-  name = "Go"
+  name = "Paintings"
   url = "/tags/golang/"
   weight = 100
 
