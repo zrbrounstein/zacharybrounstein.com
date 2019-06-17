@@ -40,7 +40,7 @@ paginate        = 6
   post = "/:slug/"
 
 [[menu.main]]
-  name = "Homee"
+  name = "Homeee"
   url = "/"
   weight = 200
 
