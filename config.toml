@@ -6,30 +6,30 @@ paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "Hugo Casper Two"
-  subtitle    = "Port of Casper 2.x for Hugo"
+  title       = "Zachary Brounstein"
+  subtitle    = "Welcome!"
 
-  cover       = "img/blog-cover.jpg"
-  description = "Here is a description of your site."
+  cover       = "downloaded_images/atmosphere_clouds.jpg"
+  description = "My personal website"
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
   RSSLink = ""
 
-  twitterName = "faketryghost"
-  fbName = "fakeghost"
-  githubName = "eueung"
+  #twitterName = "faketryghost"
+  #fbName = "fakeghost"
+  #githubName = "eueung"
 
-  logo = "zrb_skull.jpg"
-  orgName = "EM"
+  logo = ""
+  orgName = "ZRB"
   orgWebsite = "https://www.telematika.org"
   orgDescription = "Here is a description placeholder for your org"
 
-  author = "EM"
-  authorAvatar = "img/ghost-icon.png"
-  authorLocation = "Bandung, ID"
-  authorWebsite = "https://eueung.github.io"
-  authorDescription = "Describe yourself.."
+  author = "Zachary Brounstein"
+  authorAvatar = "profile_images/Portrait.jpg"
+  authorLocation = "Los Alamos, NM"
+  authorWebsite = "https://www.zacharybrounstein.com"
+  authorDescription = "Scientist, Composer"
 
   pageNotFoundTitle = "404 - Page not found"
 
@@ -40,18 +40,18 @@ paginate        = 6
   post = "/:slug/"
 
 [[menu.main]]
-  name = "Homee"
+  name = "Main"
   url = "/"
   weight = 200
 
 [[menu.main]]
   name = "Paintings"
-  url = "/tags/golang/"
+  url = "/tags/paintings/"
   weight = 100
 
 [[menu.main]]
-  name = "Food"
-  url = "/categories/food/"
+  name = "Music"
+  url = "/categories/music/"
   weight = 99
 
 [[menu.main]]
