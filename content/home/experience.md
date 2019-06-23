@@ -18,77 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Graduate Research Assistant"
-  company = "Los Alamos National Laboratory"
-  company_url = "https://lanl.gov/"
-  location = "New Mexico"
-  date_start = "2019-01-07"
+  title = "CEO"
+  company = "GenCoin"
+  company_url = ""
+  location = "California"
+  date_start = "2017-01-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * asdf
-  * asdf
-  * asdf
+  * Analysing
+  * Modelling
+  * Deploying
   """
 
 [[experience]]
-  title = "Nuclear Safety Engineer"
-  company = "Los Alamos National Laboratory"
-  company_url = "https://lanl.gov/"
-  location = "New Mexico"
-  date_start = "2016-09-26"
-  date_end = "2019-01-06"
-  description = """
-  Responsibilities include:
-  
-  * asdf
-  * asdf
-  * asdf
-  """
- 
-[[experience]]
-  title = "Senior Co-Editor"
-  company = "Nevada State Undergraduate Research Journal"
-  company_url = "https://nsurj.com/"
-  location = "Nevada"
-  date_start = "2016-09-26"
-  date_end = "2019-01-06"
-  description = """
-  Responsibilities include:
-  
-  * asdf
-  * asdf
-  * asdf
-  """
-  
-[[experience]]
-  title = "Senator"
-  company = "The Associated Students of the University of Nevada"
-  company_url = "https://nevadaasun.com/"
-  location = "Nevada"
-  date_start = "2016-09-26"
-  date_end = "2019-01-06"
-  description = """
-  Responsibilities include:
-  
-  * asdf
-  * asdf
-  * asdf
-  """
-  
-[[experience]]
-  title = "Tutor"
-  company = "University of Nevada Math Center"
-  company_url = "https://www.unr.edu/university-math-center/"
-  location = "Nevada"
-  date_start = "2016-09-26"
-  date_end = "2019-01-06"
-  description = """
-  Responsibilities include:
-  
-  * asdf
-  * asdf
-  * asdf
-  """
+  title = "Professor"
+  company = "University X"
+  company_url = ""
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
 +++
