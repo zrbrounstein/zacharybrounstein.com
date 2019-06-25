@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "https://zacharybrounstein.com/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
@@ -7,35 +7,35 @@ paginate        = 6
 canonifyurls    = true
 
 [params]
-  title       = "Hugo Casper Two"
-  subtitle    = "Port of Casper 2.x for Hugo"
-  copyright   = "© 2018"
+  title       = "Zachary Brounstein"
+  subtitle    = "My personal website"
+  copyright   = "© 2019"
 
-  cover       = "img/blog-cover.jpg"
-  description = "Here is a description of your site."
+  cover       = "img/inner_pulse_space_cloud.jpg"
+  description = "Zachary Brounstein"
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
   RSSLink = ""
 
-  twitterName = "faketryghost"
-  fbName = "fakeghost"
-  githubName = "eueung"
-  linkedinName = "eueung"
+#  twitterName = "faketryghost"
+#  fbName = "fakeghost"
+#  githubName = "eueung"
+  linkedinName = "zacharybrounstein"
   mediumName = ""
 
-  logo = "hugo-logo.png"
-  orgName = "EM"
-  orgWebsite = "https://www.telematika.org"
-  orgDescription = "Here is a description placeholder for your org"
+  logo = "Portrait.jpg"
+#  orgName = "ZRB"
+#  orgWebsite = "https://www.telematika.org"
+#  orgDescription = "Here is a description placeholder for your org"
 
   showSupport = true
 
-  author = "EM"
-  authorAvatar = "img/ghost-icon.png"
-  authorLocation = "Bandung, ID"
-  authorWebsite = "https://eueung.github.io"
-  authorDescription = "Your description here"
+  author = "ZRB"
+  authorAvatar = "Portrait.jpg"
+  authorLocation = "Los Alamos, NM"
+  authorWebsite = "https://zacharybrounstein.com/"
+  authorDescription = "Scientist, Composer"
 
   pageNotFoundTitle = "404 - Page not found"
 
@@ -48,21 +48,26 @@ canonifyurls    = true
 [[menu.main]]
   name = "Home"
   url = "/"
-  weight = 200
-
-[[menu.main]]
-  name = "Go"
-  url = "/tags/golang/"
   weight = 100
-
+  
 [[menu.main]]
-  name = "Categories"
+  name = "Paintings"
   url = "/categories/"
-  weight = 99
+  weight = 90
+  
+#[[menu.main]]
+#  name = "Music"
+#  url = "/categories/"
+#  weight = 80
 
-[[menu.main]]
-  name = "External"
-  url = "https://google.com/"
-  weight = 95
+#[[menu.main]]
+#  name = "Paintings"
+#  url = "/tags/golang/"
+#  weight = 100
 
 
+
+#[[menu.main]]
+#  name = "External"
+#  url = "https://google.com/"
+#  weight = 95
