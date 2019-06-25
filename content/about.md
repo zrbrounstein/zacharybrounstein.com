@@ -1,18 +1,21 @@
 +++
 comments = false
-date = "2015-04-14T22:17:00+00:00"
+date = ""
 draft = false
 noauthor = true
 share = false
-title = "About me"
+title = "About"
 type = "page"
 [menu.main]
-weight = 111
+weight = 50
 
 +++
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Yow !
+<p align="center">
+Hello!
+<p align="justify">
+My name is Zachary Brounstein and if I had a thousand lives, I would do a thousand things.
+My current role is performing research at Los Alamos National Laboratory, where my research interests
+include polymer science, additive manufacturing, and radiation shielding.
+My non-scientific passions are painting, composing music and playing the guitar, reading, writing, and photography.
+<br>
+<p align="center">Feel free to browse around and say hi!
